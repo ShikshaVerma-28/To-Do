@@ -19,3 +19,11 @@ A simple, efficient, and user-friendly To-Do list application to help you manage
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/ShikshaVerma-28/To-Do.git](https://github.com/ShikshaVerma-28/To-Do.git)
+   ```
+
+2.**Navigate to the directory:**
+```bash
+cd To-Do
+```
+3.**Run the project:**
+Open index.html directly in your browser.
